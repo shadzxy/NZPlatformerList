@@ -25,9 +25,6 @@ export default {
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
-                            <button @click="selected = i">
-                                <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
-                            </button>
                         </td>
                     </tr>
                 </table>
