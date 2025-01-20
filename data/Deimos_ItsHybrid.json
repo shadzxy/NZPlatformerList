@@ -1,0 +1,24 @@
+{
+    "id": 93091893,
+    "name": "Deimos (ItsHybrid)",
+    "author": "ItsHybrid",
+    "creators": [ItsHybrid & More],
+    "verifier": "Doggie",
+    "verification": "https://www.youtube.com/watch?v=b2yHaIk5zio",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Destroyer0912",
+            "link": "https://www.youtube.com/watch?v=N5efNNp1WMc",
+            "percent": 100,
+            "hz": 480
+        }
+        {
+            "user": "zLevii",
+            "link": "https://www.youtube.com/watch?v=DOMEZRSjx18",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
