@@ -97,28 +97,25 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        All classic extreme demon records require a video recording from 0 - 100 and must have audible clicks and cheat indicator must be on.*
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        All platformer records require screenshot proof of your time, videos are very much appreciated but not required.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        All records at #150 on Pointercrate or higher must provide raw footage. Your record will be removed if it is deemed illegimate by Pointercrate.**
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        Having an AREDL record accepted can boost credibility as well as audible clicks/raw footage, although these won’t be necessary unless the record has been deemed suspicious. Level of scrutiny is dependent on the levels difficulty and the record holders hardest.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        All classic records must show the death animation of the previous attempt, hitting the end wall and at least 3 frames of the "Level Complete" screen.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        <b>*If the record being submitted was completed on Vanilla Geometry Dash, cheat indicator is not required, but does require the in-game FPS counter.<b>
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        <b>**All top 150 Pointercrate records that are a "New Hardest" must be accepted on Pointercrate before your NZDL record is accepted.<b>
                     </p>
                 </div>
             </div>
