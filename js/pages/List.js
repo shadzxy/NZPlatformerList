@@ -100,9 +100,6 @@ export default {
                         All classic extreme demon records require a video recording from 0 - 100 and must have audible clicks and cheat indicator must be on.*
                     </p>
                     <p>
-                        All platformer records require screenshot proof of your time, videos are very much appreciated but not required.
-                    </p>
-                    <p>
                         All records at #150 on Pointercrate or higher must provide raw footage. Your record will be removed if it is deemed illegimate by Pointercrate.**
                     </p>
                     <p>
