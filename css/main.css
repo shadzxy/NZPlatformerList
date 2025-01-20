@@ -1,12 +1,12 @@
 :root {
-    --color-background: white;
+    --color-background: #a4c2f4;
     --color-on-background: black;
     --color-background-hover: #eee;
     --color-on-background-hover: black;
-    --color-primary: #0066ff;
-    --color-on-primary: white;
+    --color-primary: #0b5394;
+    --color-on-primary: #a4c2f4;
     --color-error: #de0000;
-    --color-on-error: white;
+    --color-on-error: #a4c2f4;
 }
 
 main.dark,
@@ -16,11 +16,11 @@ header.dark {
     --color-on-background: white;
     --color-background-hover: #27262c;
     --color-on-background-hover: white;
-    --color-primary: #283593;
-    --color-primary-disabled: #1f213c;
-    --color-on-primary: white;
+    --color-primary: #09457a;
+    --color-primary-disabled: #0b5394c;
+    --color-on-primary: #09457a;
     --color-error: #de0000;
-    --color-on-error: white;
+    --color-on-error: #09457a;
 }
 
 html,
