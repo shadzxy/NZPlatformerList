@@ -1,0 +1,24 @@
+{
+    "id": 71025973,
+    "name": "Oblivion",
+    "author": "Dice88",
+    "creators": ["Dice88"],
+    "verifier": "Dezstro",
+    "verification": "https://www.youtube.com/watch?v=IITceRJ5d84",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "ItzQuick",
+            "link": "https://www.youtube.com/watch?v=PV0sD8zzhyw&t=156s",
+            "percent": 100,
+            "hz": 400
+        },
+        {
+            "user": "zLevii",
+            "link": "https://www.youtube.com/watch?v=nQzc1OP6nyI",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
