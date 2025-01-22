@@ -1,0 +1,18 @@
+{
+    "id": 75813671,
+    "name": "Lotus Flower",
+    "author": "StarkyTheSalad",
+    "creators": ["StarkyTheSalad"],
+    "verifier": "garrowpop",
+    "verification": "https://www.youtube.com/watch?v=P6KHwwG6fxY",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "zLevii",
+            "link": "https://www.youtube.com/watch?v=7tlW8oCKc1g",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

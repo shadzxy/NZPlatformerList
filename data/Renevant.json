@@ -1,0 +1,24 @@
+{
+    "id": 58161496,
+    "name": "Renevant",
+    "author": "Nikroplays",
+    "creators": ["Nikroplays"],
+    "verifier": "Dezstro",
+    "verification": "https://www.youtube.com/watch?v=qQoA1YIDlUc",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "zLevii",
+            "link": "https://www.youtube.com/watch?v=KcwZAPYtCDU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "steal",
+            "link": "https://www.youtube.com/watch?v=HgItjy5p43U",
+            "percent": 100,
+            "hz": 420
+        }
+    ]
+}
