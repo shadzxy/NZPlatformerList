@@ -1,0 +1,24 @@
+{
+    "id": 46763581,
+    "name": "kowareta",
+    "author": "Gablor",
+    "creators": ["Gablor, Endlevel, Minaxa"],
+    "verifier": "garrowpop",
+    "verification": "https://www.youtube.com/watch?v=FdvwR9173GY&t=154s",
+    "percentToQualify": 100,
+    "password": "474969",
+    "records": [
+        {
+            "user": "natertot",
+            "link": "https://www.youtube.com/watch?v=KnBucv8rTEs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zLevii",
+            "link": "https://www.youtube.com/watch?v=nQewZT2-Bsg",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
