@@ -1,0 +1,18 @@
+{
+    "id": 66291197,
+    "name": "Cybernetic Crescent",
+    "author": "Viprin",
+    "creators": ["Viprin & More"],
+    "verifier": "Extravagon",
+    "verification": "https://youtu.be/NKvdgxJ5AQk",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Phantommarcus",
+            "link": "https://youtu.be/VYaMxRES1Xs",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

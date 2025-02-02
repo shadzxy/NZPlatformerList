@@ -1,0 +1,42 @@
+{
+    "id": 28220417,
+    "name": "Yatagarasu",
+    "author": "TrusTa",
+    "creators": ["TrusTa & more"],
+    "verifier": "BoldStep",
+    "verification": "https://www.youtube.com/watch?v=Gj2CwyMFTyE",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "DuoFace",
+            "link": "https://www.youtube.com/watch?v=5I5sOqDx4CM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Customize45",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Artaix",
+            "link": "https://www.youtube.com/watch?v=DZCAza5C9dM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "steal",
+            "link": "https://www.tiktok.com/@stealurknees95/video/7392071669625490695",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Phantommarcus",
+            "link": "https://www.youtube.com/watch?v=fMRI3FjPZ6g",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": 77255632,
+    "name": "Sink",
+    "author": "Awedsy",
+    "creators": ["Awedsy"],
+    "verifier": "nobody207",
+    "verification": "https://youtu.be/cr-iUC3LObY",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "zLevii",
+            "link": "https://www.youtube.com/watch?v=2RxrpXCINHk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Availax",
+            "link": "https://www.youtube.com/watch?v=DS-_yt7SmyI",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
