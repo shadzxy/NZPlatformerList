@@ -1,0 +1,24 @@
+{
+    "id": 86050887,
+    "name": "Ddiamond",
+    "author": "IFritz",
+    "creators": ["iITesseractIi, IFritz"],
+    "verifier": "garrowpop",
+    "verification": "https://www.youtube.com/watch?v=y_PQin_EeY0",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Customize45",
+            "link": "https://www.youtube.com/watch?v=ipY8jeJD1Pw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Artaix",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
