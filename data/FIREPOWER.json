@@ -1,0 +1,18 @@
+{
+    "id": 89876243,
+    "name": "FIREPOWER",
+    "author": "Sillow",
+    "creators": ["Sillow"],
+    "verifier": "zLevii",
+    "verification": "https://www.youtube.com/watch?v=Is2Krx9yFCA",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Extravagon",
+            "link": "https://www.youtube.com/watch?v=8kx2uhtLz-Y",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
