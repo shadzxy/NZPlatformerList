@@ -1,0 +1,30 @@
+{
+    "id": 45094581,
+    "name": "Delta Interface",
+    "author": "Platnuu",
+    "creators": ["Platnuu"],
+    "verifier": "Customize45",
+    "verification": "https://www.youtube.com/watch?v=74D6bum3nM8",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Dezstro",
+            "link": "https://www.youtube.com/watch?v=Da9D7Ad_YrI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zLevii",
+            "link": "https://www.youtube.com/watch?v=KkxXonWMwx8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "steal",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
