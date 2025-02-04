@@ -1,0 +1,30 @@
+{
+    "id": 55224007,
+    "name": "distraught",
+    "author": "Alkali",
+    "creators": ["Alkali"],
+    "verifier": "BOSTONTHEKIDRS",
+    "verification": "https://www.youtube.com/watch?v=QcCbD5zumLA",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Extravagon",
+            "link": "https://www.youtube.com/watch?v=8s1aTrE2-s4",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "garrowpop",
+            "link": "https://www.youtube.com/watch?v=b9hr4SdndfQ",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "nCorr",
+            "link": "https://www.youtube.com/watch?v=h7pKXXNWSdc",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
