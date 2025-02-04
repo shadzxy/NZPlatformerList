@@ -109,10 +109,16 @@ export default {
                         All classic records must show the death animation of the previous attempt, hitting the end wall and at least 3 frames of the "Level Complete" screen.
                     </p>
                     <p>
+                        Click Between Frames is allowed on the list.
+                    </p>
+                    <p>
                         <b>*If the record being submitted was completed on Vanilla Geometry Dash, cheat indicator is not required, but does require the in-game FPS counter.<b>
                     </p>
                     <p>
                         <b>**All top 150 Pointercrate records that are a "New Hardest" must be accepted on Pointercrate before your NZDL record is accepted.<b>
+                    </p>
+                    <p>
+                        Website made by Shadz with the help of The Shitty List template :3
                     </p>
                 </div>
             </div>
