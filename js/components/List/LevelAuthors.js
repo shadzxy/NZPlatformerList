@@ -44,7 +44,7 @@ export default {
                 <span>{{ author }}</span>
             </p>
                 </p>
-                <div class="type-title-sm">Verifier/First Victor</div>
+                <div class="type-title-sm">Verifier/First NZ Victor</div>
                 <p class="type-body">
                     <span>{{ verifier }}</span>
                 </p>
