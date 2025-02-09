@@ -109,7 +109,7 @@ export default {
                         All classic records must show the death animation of the previous attempt, hitting the end wall and at least 3 frames of the "Level Complete" screen.
                     </p>
                     <p>
-                        Click Between Frames is allowed on the list.
+                        Completions with Click Between Frames enabled are allowed on the list, however there will be a note on your record.
                     </p>
                     <p>
                         <b>*If the record being submitted was completed on Vanilla Geometry Dash, cheat indicator is not required, but does require the in-game FPS counter.<b>
