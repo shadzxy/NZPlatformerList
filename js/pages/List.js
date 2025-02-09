@@ -97,19 +97,19 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        All classic extreme demon records require a video recording from 0 - 100 and must have audible clicks and cheat indicator must be on.*
+                        All classic extreme demon records require a video recording from 0 - 100, and must have audible clicks and cheat indicator enabled.*
                     </p>
                     <p>
                         All records at #150 on Pointercrate or higher must provide raw footage. Your record will be removed if it is deemed illegimate by Pointercrate.**
                     </p>
                     <p>
-                        Having an AREDL record accepted can boost credibility as well as audible clicks/raw footage, although these won’t be necessary unless the record has been deemed suspicious. Level of scrutiny is dependent on the levels difficulty and the record holders hardest.
+                        Having an AREDL record accepted can boost credibility as well as raw footage, although these won’t be necessary unless the record has been deemed suspicious. Level of scrutiny is dependent on the levels difficulty and the record holders hardest.
                     </p>
                     <p>
                         All classic records must show the death animation of the previous attempt, hitting the end wall and at least 3 frames of the "Level Complete" screen.
                     </p>
                     <p>
-                        Completions with Click Between Frames enabled are allowed on the list, however there will be a note on your record.
+                        Completions with Click Between Frames enabled are allowed on the list, however there will be a note on your record displaying CBF usage.
                     </p>
                     <p>
                         <b>*If the record being submitted was completed on Vanilla Geometry Dash, cheat indicator is not required, but does require the in-game FPS counter.<b>
@@ -118,7 +118,7 @@ export default {
                         <b>**All top 150 Pointercrate records that are a "New Hardest" must be accepted on Pointercrate before your NZDL record is accepted.<b>
                     </p>
                     <p>
-                        Website made by Shadz with the help of The Shitty List template :3
+                        Website made by Shadz with the help of The Shitty List template
                     </p>
                 </div>
             </div>
