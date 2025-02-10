@@ -1,48 +1,35 @@
-# Welcome to the Geometry Dash Shitty List template!
+# Welcome to the New Zealand Demonlist!
 
-# FAQ
+This is a list to rank the top 150 extreme demons beaten in New Zealand.
 
----
+You can access the site [here,](https://nzdl.pages.dev) or at (https://nzdl.pages.dev)
 
-### Website FAQ
+## List Team
+These are the people that manage the NZDL. Please contact them if you have any questions.
 
-Can I use the Shitty List template?
+### List Owner
+[Perikite](https://www.youtube.com/@perikite28)
 
-- Sure. Credits to the shitty list are embedded onto this template so keep that in.
+### List Moderators
+[Artaix](https://www.youtube.com/@Artaix/), [Customize](https://www.youtube.com/@Customize45), [Stainsley](https://www.youtube.com/@stainsley), [Shadz](https://www.youtube.com/@ShadzX)
 
-The website isn't loading! What can I do?
+### List Developer
+[Shadz](https://www.youtube.com/@ShadzX)
 
-- Since no webhost is perfect, downtime is expected. You can either wait till the
-  website is back online or you can do some behind the scene stuff and run it
-  locally.
+## Submission Requirements
 
----
+All classic extreme demon records require a video recording from 0 - 100, and must have audible clicks and cheat indicator enabled.*
 
-### Usage FAQ
+All records at #150 on Pointercrate or higher must provide raw footage. Your record will be removed if it is deemed illegimate by Pointercrate.**
 
-How do I add levels to the list?
+Having an AREDL record accepted can boost credibility as well as raw footage, although these won’t be necessary unless the record has been deemed suspicious. Level of scrutiny is dependent on the levels difficulty and the record holders hardest.
 
-- Use one of the provided template json files and modify the details to fill in the details
-  accordingly. If there are any errors, the site will not load, or you will get a pop up
-  saying which level isn't loading.
+All classic records must show the death animation of the previous attempt, hitting the end wall and at least 3 frames of the "Level Complete" screen.
 
-How do I add records to the list?
+Completions with Click Between Frames enabled are allowed on the list, however there will be a note on your record displaying CBF usage.
 
-- Again, use one of the given templates, and modify the details accordingly. For mobile
-  records, you can add the code `mobile: true` within the braces. Make sure there are no
-  excess or missing commas, or the website might not load properly.
+*If the record being submitted was completed on Vanilla Geometry Dash, cheat indicator is not required, but does require the in-game FPS counter.
 
-What are some common reasons for the website not loading?
+**All top 150 Pointercrate records that are a "New Hardest" must be accepted on Pointercrate before your NZDL record is accepted.
 
-- The most common cause is missing commas and inverted commas, or extra commas at the end of
-  the last lines within list entries. A good way to find the error-causing lines can be found
-  by using `Inspect Element` and going to the `Console` tab.
-
----
-
-## More Coming Soon!
-
-## Repo Maintainers:
-
-- Prometheus
-- Emonadeo
+Website made by Shadz with the help of [The Shitty List template.](https://github.com/TheShittyList/GDListTemplate) Contact me on discord if you want to request any website changes/report bugs (@shadzhog)
