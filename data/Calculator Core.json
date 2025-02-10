@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "BOSTONTHEKIDRS",
+            "link": "https://www.youtube.com/watch?v=Hz5Z3Vojz7o&t=40s",
+            "percent": 100,
+            "hz": "(CBF) 280"
+        }
     ]
 }
