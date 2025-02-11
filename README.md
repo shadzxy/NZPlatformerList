@@ -1,8 +1,9 @@
-# Welcome to the New Zealand Demonlist!
+# Welcome to the New Zealand Platformer list!
 
-This is a list to rank the top 150 extreme demons beaten in New Zealand.
+This is a list to rank the top 150 platformer demons beaten in New Zealand.
 
-You can access the site [here,](https://nzdl.pages.dev) or at (https://nzdl.pages.dev)
+You can access the site here at (https://nzplatlist.pages.dev).
+To access the main Demonlist for classic extreme demons, visit (https://nzdl.pages.dev).
 
 ## List Team
 These are the people that manage the NZDL. Please contact them if you have any questions.
@@ -18,18 +19,11 @@ These are the people that manage the NZDL. Please contact them if you have any q
 
 ## Submission Requirements
 
-All classic extreme demon records require a video recording from 0 - 100, and must have audible clicks and cheat indicator enabled.*
+All platformer demon records require a screenshot of the completed level, and the time taken to beat.
 
-All records at #150 on Pointercrate or higher must provide raw footage. Your record will be removed if it is deemed illegimate by Pointercrate.**
-
-Having an AREDL record accepted can boost credibility as well as raw footage, although these won’t be necessary unless the record has been deemed suspicious. Level of scrutiny is dependent on the levels difficulty and the record holders hardest.
-
-All classic records must show the death animation of the previous attempt, hitting the end wall and at least 3 frames of the "Level Complete" screen.
+Having a Pemonlist record accepted can boost credibility as well as raw footage, although these won’t be necessary unless the record has been deemed suspicious. Level of scrutiny is dependent on the levels difficulty and the record holders hardest.
 
 Completions with Click Between Frames enabled are allowed on the list, however there will be a note on your record displaying CBF usage.
 
-*If the record being submitted was completed on Vanilla Geometry Dash, cheat indicator is not required, but does require the in-game FPS counter.
-
-**All top 150 Pointercrate records that are a "New Hardest" must be accepted on Pointercrate before your NZDL record is accepted.
 
 Website made by Shadz with the help of [The Shitty List template.](https://github.com/TheShittyList/GDListTemplate) Contact me on discord if you want to request any website changes/report bugs (@shadzhog)
