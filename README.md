@@ -2,8 +2,8 @@
 
 This is a list to rank the top 150 platformer demons beaten in New Zealand.
 
-You can access the site here at (https://nzplatlist.pages.dev).
-To access the main Demonlist for classic extreme demons, visit (https://nzdl.pages.dev).
+You can access the site here at https://nzplatlist.pages.dev.
+To access the main Demonlist for classic extreme demons, visit https://nzdl.pages.dev
 
 ## List Team
 These are the people that manage the NZDL. Please contact them if you have any questions.
