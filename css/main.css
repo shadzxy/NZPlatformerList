@@ -29,10 +29,6 @@ body {
     height: 100%;
 }
 
-a:link {
-    color: blue;
-  }
-
 body {
     display: flex;
     flex-direction: column;
