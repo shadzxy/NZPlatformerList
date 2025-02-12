@@ -77,7 +77,7 @@ export default {
                     </table>
                 </div>
                 <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
-                    <p>(ノಠ益ಠ)ノ彡┻━┻</p>
+                    <p>This level hasn't loaded properly! Contact Shadz on discord so he can fix it.</p>
                 </div>
             </div>
             <div class="meta-container">
@@ -85,6 +85,10 @@ export default {
                     <div class="errors" v-show="errors.length > 0">
                         <p class="error" v-for="error of errors">{{ error }}</p>
                     </div>
+                    <h3>Classic List</h3>
+                    <p>
+                        You can visit the main NZ Demonlist here at <a target="_blank" href="https://nzdl.pages.dev">nzdl.pages.dev</a>
+                    </p>
                     <template v-if="editors">
                         <h3>List Editors</h3>
                         <ol class="editors">
@@ -97,7 +101,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        All platformer demon records require a screenshot of the completed level, and the time taken to beat .*
+                        All platformer demon records require a screenshot of the completed level, and the time taken to beat.
                     </p>
                     <p>
                         Having a Pemonlist record accepted can boost credibility as well as raw footage, although these won’t be necessary unless the record has been deemed suspicious. Level of scrutiny is dependent on the levels difficulty and the record holders hardest.
@@ -106,7 +110,7 @@ export default {
                         Completions with Click Between Frames enabled are allowed on the list, however there will be a note on your record displaying CBF usage.
                     </p>
                     <p>
-                        Website made by Shadz with the help of The Shitty List template
+                        Website made by Shadz with the help of <a target="_blank" href="https://github.com/TheShittyList/GDListTemplate">The Shitty List template</a>
                     </p>
                 </div>
             </div>
