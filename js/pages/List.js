@@ -85,10 +85,6 @@ export default {
                     <div class="errors" v-show="errors.length > 0">
                         <p class="error" v-for="error of errors">{{ error }}</p>
                     </div>
-                    <h3>Classic List</h3>
-                    <p>
-                        You can visit the main NZ Demonlist here at <a target="_blank" href="https://nzdl.pages.dev">nzdl.pages.dev</a>
-                    </p>
                     <template v-if="editors">
                         <h3>List Editors</h3>
                         <ol class="editors">
