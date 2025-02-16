@@ -1,6 +1,6 @@
 # Welcome to the New Zealand Platformer list!
 
-This is a list to rank the top 150 platformer demons beaten in New Zealand.
+This is a list to rank the top platformer demons beaten in New Zealand.
 
 You can access the site here at https://nzplatlist.pages.dev.
 
